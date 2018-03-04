@@ -20,6 +20,5 @@ public class Main {
         array = quicksort.mergeSort(array);
         System.out.println(Arrays.toString(array));
 
-
     }
 }
